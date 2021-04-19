@@ -1,0 +1,52 @@
+body{
+    background-color: #7f8fa6;
+color: darkturquoise;
+font-size: 20px;
+border: 4px solid #00a8ff
+}
+.list{
+    color: #4d137c;
+    border: 5px solid #0097e6
+}
+.border{
+    border: 5px solid #4caf50    
+}
+.PARTY{
+    color: #c23616;
+    text-align: right;
+}
+#myHeader {
+    background-color: #40739e;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
+#readaboutmythings {
+    text-align: center;
+    padding: 20px;
+    background-color: #7f8fa6;
+    color: darkturquoise;
+    border: 5px solid #4cd137;
+}
+#aboutus {
+    text-align: right;
+    padding: 20px;
+    background-color: #7f8fa6;
+    color: darkturquoise;
+    border: 5px solid #4cd137
+}
+#GamingChatRules {
+    text-align: center;
+    padding: 20px;
+    background-color: #7f8fa6;
+    color: darkturquoise;
+    border: 5px solid #4cd137
+}
+.list2{
+    color: darkturquoise;
+    border: 5px solid #0097e6;
+}
+.border2{
+    border: 5px solid #4caf50;
+    text-align: right;
+}
